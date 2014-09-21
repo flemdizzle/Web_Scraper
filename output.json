@@ -1,21 +1,17 @@
 {
-    "name": " IOTA Club & Cafe ",
-    "address": " 2832 Wilson BlvdArlington, VA 22201 ",
-    "hours": " Mon 8:00 am - 2:00 am Tue 8:00 am - 2:00 am Wed 8:00 am - 2:00 am Thu 8:00 am - 2:00 am Fri 6:30 am - 2:00 am Sat 8:00 am - 2:00 am Sun 8:00 am - 12:00 am Open now "
-}{
-    "name": " IOTA Club & Cafe ",
-    "address": " 2832 Wilson BlvdArlington, VA 22201 ",
-    "hours": " Mon 8:00 am - 2:00 am Tue 8:00 am - 2:00 am Wed 8:00 am - 2:00 am Thu 8:00 am - 2:00 am Fri 6:30 am - 2:00 am Sat 8:00 am - 2:00 am Sun 8:00 am - 12:00 am Open now "
+    "name": " The Liberty Tavern ",
+    "address": " 3195 Wilson BlvdArlington, VA 22201 ",
+    "hours": " Mon 11:30 am - 2:00 am Tue 11:30 am - 2:00 am Wed 11:30 am - 2:00 am Thu 11:30 am - 2:00 am Fri 11:30 am - 2:00 am Sat 9:30 am - 2:00 am Sun 9:30 am - 2:00 am Open now "
 }{
     "name": " Galaxy Hut ",
     "address": " 2711 Wilson BlvdArlington, VA 22201 ",
     "hours": " Mon 5:00 pm - 2:00 am Tue 5:00 pm - 2:00 am Wed 5:00 pm - 2:00 am Thu 5:00 pm - 2:00 am Fri 5:00 pm - 2:00 am Sat 5:00 pm - 2:00 am Sun 5:00 pm - 2:00 am Open now "
 }{
-    "name": " The Liberty Tavern ",
-    "address": " 3195 Wilson BlvdArlington, VA 22201 ",
-    "hours": " Mon 11:30 am - 2:00 am Tue 11:30 am - 2:00 am Wed 11:30 am - 2:00 am Thu 11:30 am - 2:00 am Fri 11:30 am - 2:00 am Sat 9:30 am - 2:00 am Sun 9:30 am - 2:00 am Open now "
-}{
     "name": " World of Beer ",
     "address": " 901 N Glebe RdSte 105Arlington, VA 22203 ",
     "hours": " Mon 11:00 am - 1:00 am Tue 11:00 am - 1:00 am Wed 11:00 am - 1:00 am Thu 11:00 am - 2:00 am Fri 11:00 am - 2:00 am Sat 11:00 am - 2:00 am Sun 11:00 am - 1:00 am Open now "
+}{
+    "name": " IOTA Club & Cafe ",
+    "address": " 2832 Wilson BlvdArlington, VA 22201 ",
+    "hours": " Mon 8:00 am - 2:00 am Tue 8:00 am - 2:00 am Wed 8:00 am - 2:00 am Thu 8:00 am - 2:00 am Fri 6:30 am - 2:00 am Sat 8:00 am - 2:00 am Sun 8:00 am - 12:00 am Open now "
 }
