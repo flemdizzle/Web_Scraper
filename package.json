@@ -1,0 +1,12 @@
+{
+  "name": "Scraper",
+  "version": "0.0.1",
+  "description": "scrapes things",
+  "main": "server.js",
+  "author": "flemdizzle",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "express": "^4.9.4",
+    "request": "2.44.0"
+  }
+}
